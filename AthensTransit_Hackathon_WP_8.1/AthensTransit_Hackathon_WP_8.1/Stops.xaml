@@ -1,0 +1,70 @@
+﻿<Page
+    x:Class="AthensTransit_Hackathon.Stops"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:AthensTransit_Hackathon"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Page.Resources>
+        <!--<DataTemplate x:Name="stopsTemplate">
+            <ListBoxItem Background="DarkGray" BorderThickness="1">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="7*"/>
+                    </Grid.ColumnDefinitions>
+                    
+                    
+                    <Image Grid.Column="0" Source="Assets/e107-Delete.Black.48.png" />
+                    <TextBlock Grid.Column="1" Text="{Binding stopName}" 
+                               HorizontalAlignment="Center" VerticalAlignment="Center" />
+                </Grid>
+            </ListBoxItem>
+        </DataTemplate>-->
+
+        <DataTemplate x:Name="stopsRepresentation">
+            <Grid >
+                <Border BorderBrush="Black" Grid.ColumnSpan="3">
+                    <Grid Grid.ColumnSpan="3">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="2*"/>
+                            <ColumnDefinition Width="7*"/>
+                            <ColumnDefinition Width="4*"/>
+                        </Grid.ColumnDefinitions>
+
+                        <Image Grid.Column="0" Source="{Binding imagePath}" Stretch="None" />
+                        <TextBlock Margin="5,0,0,0" Grid.Column="1" Text="{Binding stopName}" Foreground="White"
+                            HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="16"/>
+                        <TextBlock x:Name="connections" Margin="5,0,0,0" Grid.Column="2" Text="{Binding numberOfConnectingStops}" 
+                                   FontSize="16" Foreground="LightBlue"
+                                   HorizontalAlignment="Center" VerticalAlignment="Center" />
+                    </Grid>
+                </Border>
+            </Grid>
+        </DataTemplate>
+        
+        <Style x:Key="styleOfListBoxSO" TargetType="ListBoxItem">
+            <Setter Property="Template" >
+                <Setter.Value>
+                    <ControlTemplate TargetType="ListBoxItem" >
+                        <ContentPresenter/>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Page.Resources>
+
+    <Grid x:Name="LayoutRoot" Style="{StaticResource LayoutGridStyle}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <!--<RowDefinition Height="5*"/>-->
+        </Grid.RowDefinitions>
+        
+        <Pivot Grid.Row="0" x:Name="pivotStops" Margin="0,15,0,0" 
+               SelectionChanged="pivotStops_SelectionChanged" />
+        
+    </Grid>
+</Page>

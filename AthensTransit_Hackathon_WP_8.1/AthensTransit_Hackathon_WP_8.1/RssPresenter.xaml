@@ -1,0 +1,71 @@
+﻿<Page
+    x:Class="AthensTransit_Hackathon.RssPresenter"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:AthensTransit_Hackathon"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Page.Resources>
+        <DataTemplate x:Name="oasaTemplate">
+            <StackPanel Margin="10">
+                <TextBlock Text="{Binding Title}" Foreground="Cyan" TextWrapping="WrapWholeWords"/>
+                <TextBlock Text="{Binding PubDate}" TextWrapping="WrapWholeWords"/>
+                <TextBlock Text="{Binding Link}" TextWrapping="WrapWholeWords"/>
+            </StackPanel>
+        </DataTemplate>
+        <DataTemplate x:Name="apergiaTemplate">
+            <StackPanel Margin="10">
+                <TextBlock Text="{Binding Title}" Foreground="Cyan" TextWrapping="WrapWholeWords"/>
+                <TextBlock Text="{Binding PubDate}" TextWrapping="WrapWholeWords"/>
+                <TextBlock Text="{Binding Link}" TextWrapping="WrapWholeWords"/>
+                <TextBlock Text="{Binding Status}" TextWrapping="WrapWholeWords"/>
+                <TextBlock Text="{Binding StrikeDate}" TextWrapping="WrapWholeWords"/>
+                <TextBlock Text="{Binding Summary}" TextWrapping="WrapWholeWords"/>
+            </StackPanel>
+        </DataTemplate>
+    </Page.Resources>
+    <Grid x:Name="LayoutRoot"
+          Style="{StaticResource LayoutGridStyle}">
+
+        <Grid.ChildrenTransitions>
+            <TransitionCollection>
+                <EntranceThemeTransition/>
+            </TransitionCollection>
+        </Grid.ChildrenTransitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Title Panel -->
+        <StackPanel Grid.Row="0" Margin="19,0,0,0">
+            <TextBlock Text="MY APPLICATION" Style="{ThemeResource TitleTextBlockStyle}" Margin="0,12,0,0"/>
+            <TextBlock Text="page title" Margin="0,-6.5,0,26.5" Style="{ThemeResource HeaderTextBlockStyle}" CharacterSpacing="{ThemeResource PivotHeaderItemCharacterSpacing}"/>
+        </StackPanel>
+
+        <!--TODO: Content should be placed within the following grid-->
+        <Grid Grid.Row="1" x:Name="ContentRoot" Margin="19,9.5,19,0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="0.9*"/>
+                <RowDefinition Height="0.1*"/>
+            </Grid.RowDefinitions>
+            <ListView Name="ListView" HorizontalAlignment="Stretch" 
+                      VerticalAlignment="Stretch"
+                      ItemsSource="{Binding}">
+            </ListView>
+            <StackPanel Name="spButtons" Grid.Row="1" HorizontalAlignment="Center" Orientation="Horizontal">
+                <Button Name="bOasa" Content="Oasa Feed" Click="bOasa_Click" Margin="0,0,5,0"/>
+                <Button Name="bApergia" Content="Apergia Feed" Click="bApergia_Click" Margin="0,0,5,0"/>
+                <Button Name="bTraffic" Content="Traffic" Click="bTraffic_Click"/>
+            </StackPanel>
+
+            <ProgressRing Name="progressRing" Grid.RowSpan="2" HorizontalAlignment="Center"
+                          VerticalAlignment="Center"/>
+        </Grid>
+    </Grid>
+
+</Page>

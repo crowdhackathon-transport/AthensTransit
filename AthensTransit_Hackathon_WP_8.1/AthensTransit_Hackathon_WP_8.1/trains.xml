@@ -1,0 +1,1749 @@
+﻿<Buses>
+	<Bus lineNumber="m1" lineName="ΠΕΙΡΑΙΑΣ - ΚΗΦΙΣΙΑ">
+		<Stops startingPoint="Αφετηρία">
+			<Stop stopName="ΠΕΙΡΑΙΑΣ" first="0500" last="0015" last1Name="ΟΜΟΝΟΙΑ" last1Time="0030">
+				<C>m1</C>
+			</Stop>
+			<Stop stopName="ΦΑΛΗΡΟ" first="0503" last="0018" last1Name="ΟΜΟΝΟΙΑ" last1Time="0033">
+				<C>m1</C>
+				<C>t3</C>
+				<C>t4</C>
+			</Stop>
+			<Stop stopName="ΜΟΣΧΑΤΟ" first="0506" last="0021" last1Name="ΟΜΟΝΟΙΑ" last1Time="0036">
+				<C>m1</C>
+			</Stop>
+			<Stop stopName="ΚΑΛΛΙΘΕΑ" first="0509" last="0024" last1Name="ΟΜΟΝΟΙΑ" last1Time="0039">
+				<C>m1</C>
+			</Stop>
+			<Stop stopName="ΤΑΥΡΟΣ" first="0510" last="0025" last1Name="ΟΜΟΝΟΙΑ" last1Time="0040">
+				<C>m1</C>
+			</Stop>
+			<Stop stopName="ΠΕΤΡΑΛΩΝΑ" first="0512" last="0027" last1Name="ΟΜΟΝΟΙΑ" last1Time="0042">
+				<C>m1</C>
+			</Stop>
+			<Stop stopName="ΘΗΣΕΙΟ" first="0515" last="0030" last1Name="ΟΜΟΝΟΙΑ" last1Time="0030">
+				<C>m1</C>
+			</Stop>
+			<Stop stopName="ΜΟΝΑΣΤΗΡΑΚΙ">
+				<C>m1</C>
+				<C>m3</C>
+			</Stop>
+			<Stop stopName="ΟΜΟΝΟΙΑ">
+				<C>m1</C>
+				<C>m2</C>
+			</Stop>
+			<Stop stopName="ΒΙΚΤΩΡΙΑ">
+				<C>m1</C>
+			</Stop>
+			<Stop stopName="ΑΤΤΙΚΗ">
+				<C>m1</C>
+				<C>m2</C>
+			</Stop>
+			<Stop stopName="ΑΓΙΟΣ ΝΙΚΟΛΑΟΣ">
+				<C>m1</C>
+			</Stop>
+			<Stop stopName="ΚΑΤΩ ΠΑΤΗΣΙΑ">
+				<C>m1</C>
+			</Stop>
+			<Stop stopName="ΑΓΙΟΣ ΕΛΕΥΘΕΡΙΟΣ">
+				<C>m1</C>
+			</Stop>
+			<Stop stopName="ΑΝΩ ΠΑΤΗΣΙΑ">
+				<C>m1</C>
+			</Stop>
+			<Stop stopName="ΠΕΡΙΣΣΟΣ">
+				<C>m1</C>
+			</Stop>
+			<Stop stopName="ΠΕΥΚΑΚΙΑ">
+				<C>m1</C>
+			</Stop>
+			<Stop stopName="ΝΕΑ ΙΩΝΙΑ">
+				<C>m1</C>
+			</Stop>
+			<Stop stopName="ΗΡΑΚΛΕΙΟ">
+				<C>m1</C>
+			</Stop>
+			<Stop stopName="ΕΙΡΗΝΗ">
+				<C>m1</C>
+			</Stop>
+			<Stop stopName="ΝΕΡΑΝΤΖΙΩΤΙΣΣΑ">
+				<C>m1</C>
+			</Stop>
+			<Stop stopName="ΜΑΡΟΥΣΙ">
+				<C>m1</C>
+			</Stop>
+			<Stop stopName="Κ.Α.Τ.">
+				<C>m1</C>
+			</Stop>
+			<Stop stopName="ΚΗΦΙΣΙΑ">
+				<C>m1</C>
+			</Stop>
+		</Stops>
+		<Stops startingPoint="Τέρμα">
+			<Stop stopName="ΚΗΦΙΣΙΑ">
+				<C>m1</C>
+			</Stop>
+			<Stop stopName="Κ.Α.Τ.">
+				<C>m1</C>
+			</Stop>
+			<Stop stopName="ΜΑΡΟΥΣΙ">
+				<C>m1</C>
+			</Stop>
+			<Stop stopName="ΝΕΡΑΝΤΖΙΩΤΙΣΣΑ">
+				<C>m1</C>
+			</Stop>
+			<Stop stopName="ΕΙΡΗΝΗ">
+				<C>m1</C>
+			</Stop>
+			<Stop stopName="ΗΡΑΚΛΕΙΟ">
+				<C>m1</C>
+			</Stop>
+			<Stop stopName="ΝΕΑ ΙΩΝΙΑ">
+				<C>m1</C>
+			</Stop>
+			<Stop stopName="ΠΕΥΚΑΚΙΑ">
+				<C>m1</C>
+			</Stop>
+			<Stop stopName="ΠΕΡΙΣΣΟΣ">
+				<C>m1</C>
+			</Stop>
+			<Stop stopName="ΑΝΩ ΠΑΤΗΣΙΑ">
+				<C>m1</C>
+			</Stop>
+			<Stop stopName="ΑΓΙΟΣ ΕΛΕΥΘΕΡΙΟΣ">
+				<C>m1</C>
+			</Stop>
+			<Stop stopName="ΚΑΤΩ ΠΑΤΗΣΙΑ">
+				<C>m1</C>
+			</Stop>
+			<Stop stopName="ΑΓΙΟΣ ΝΙΚΟΛΑΟΣ">
+				<C>m1</C>
+			</Stop>
+			<Stop stopName="ΑΤΤΙΚΗ">
+				<C>m1</C>
+				<C>m2</C>
+			</Stop>
+			<Stop stopName="ΒΙΚΤΩΡΙΑ">
+				<C>m1</C>
+			</Stop>
+			<Stop stopName="ΟΜΟΝΟΙΑ">
+				<C>m1</C>
+				<C>m2</C>
+			</Stop>
+			<Stop stopName="ΜΟΝΑΣΤΗΡΑΚΙ">
+				<C>m1</C>
+				<C>m3</C>
+			</Stop>
+			<Stop stopName="ΘΗΣΕΙΟ">
+				<C>m1</C>
+			</Stop>
+			<Stop stopName="ΠΕΤΡΑΛΩΝΑ">
+				<C>m1</C>
+			</Stop>
+			<Stop stopName="ΤΑΥΡΟΣ">
+				<C>m1</C>
+			</Stop>
+			<Stop stopName="ΚΑΛΛΙΘΕΑ">
+				<C>m1</C>
+			</Stop>
+			<Stop stopName="ΜΟΣΧΑΤΟ">
+				<C>m1</C>
+			</Stop>
+			<Stop stopName="ΦΑΛΗΡΟ">
+				<C>m1</C>
+				<C>t3</C>
+				<C>t4</C>
+			</Stop>
+			<Stop stopName="ΠΕΙΡΑΙΑΣ">
+				<C>m1</C>
+			</Stop>
+		</Stops>
+    <Day dayName="Δευτέρα εως Παρασκευή" startingPoint="ΠΕΙΡΑΙΑΣ">
+      <T>0500</T>
+      <T>0015</T>
+      <Frequency startTime="0500" endTime="0530" freq="15"/>
+      <Frequency startTime="0530" endTime="0630" freq="1030"/>
+      <Frequency startTime="0630" endTime="2100" freq="6"/>
+      <Frequency startTime="2100" endTime="2330" freq="1030"/>
+      <Frequency startTime="2330" endTime="0100" freq="15"/>
+    </Day>
+    <Day dayName="Σάββατο" startingPoint="ΠΕΙΡΑΙΑΣ">
+      <T>0500</T>
+      <T>0015</T>
+      <Frequency startTime="0500" endTime="0530" freq="15"/>
+      <Frequency startTime="0630" endTime="2100" freq="6"/>
+      <Frequency startTime="2330" endTime="0100" freq="15"/>
+    </Day>
+    <Day dayName="Κυριακή" startingPoint="ΠΕΙΡΑΙΑΣ">
+      <T>0500</T>
+      <T>0015</T>
+      <Frequency startTime="0500" endTime="0530" freq="15"/>
+      <Frequency startTime="0630" endTime="2100" freq="6"/>
+      <Frequency startTime="2330" endTime="0100" freq="15"/>
+    </Day>
+    <Day dayName="Δευτέρα εως Παρασκευή" startingPoint="ΚΗΦΙΣΙΑ">
+      <T>0500</T>
+      <T>0015</T>
+      <Frequency startTime="0500" endTime="0530" freq="15"/>
+      <Frequency startTime="0530" endTime="0630" freq="1030"/>
+      <Frequency startTime="0630" endTime="2100" freq="6"/>
+      <Frequency startTime="2100" endTime="2330" freq="1030"/>
+      <Frequency startTime="2330" endTime="0100" freq="15"/>
+    </Day>
+    <Day dayName="Σάββατο" startingPoint="ΚΗΦΙΣΙΑ">
+      <T>0500</T>
+      <T>0015</T>
+      <Frequency startTime="0500" endTime="0530" freq="15"/>
+      <Frequency startTime="0630" endTime="2100" freq="6"/>
+      <Frequency startTime="2330" endTime="0100" freq="15"/>
+    </Day>
+    <Day dayName="Κυριακή" startingPoint="ΚΗΦΙΣΙΑ">
+      <T>0500</T>
+      <T>0015</T>
+      <Frequency startTime="0500" endTime="0530" freq="15"/>
+      <Frequency startTime="0630" endTime="2100" freq="6"/>
+      <Frequency startTime="2330" endTime="0100" freq="15"/>
+    </Day>
+  </Bus>
+	<Bus lineNumber="m2" lineName="ΑΝΘΟΥΠΟΛΗ - ΣΤ.ΕΛΛΗΝΙΚΟ">
+		<Stops startingPoint="Αφετηρία">
+			<Stop stopName="ΑΝΘΟΥΠΟΛΗ">
+				<C>m2</C>
+			</Stop>
+			<Stop stopName="ΠΕΡΙΣΤΕΡΙ">
+				<C>m2</C>
+			</Stop>
+			<Stop stopName="ΑΓΙΟΣ ΑΝΤΩΝΙΟΣ">
+				<C>m2</C>
+			</Stop>
+			<Stop stopName="ΣΕΠΟΛΙΑ">
+				<C>m2</C>
+			</Stop>
+			<Stop stopName="ΑΤΤΙΚΗ">
+				<C>m2</C>
+				<C>m1</C>
+			</Stop>
+			<Stop stopName="ΣΤΑΘΜΟΣ ΛΑΡΙΣΗΣ">
+				<C>m2</C>
+			</Stop>
+			<Stop stopName="ΜΕΤΑΞΟΥΡΓΕΙΟ">
+				<C>m2</C>
+			</Stop>
+			<Stop stopName="ΟΜΟΝΟΙΑ">
+				<C>m2</C>
+				<C>m1</C>
+			</Stop>
+			<Stop stopName="ΠΑΝΕΠΙΣΤΗΜΙΟ">
+				<C>m2</C>
+			</Stop>
+			<Stop stopName="ΣΥΝΤΑΓΜΑ">
+				<C>m2</C>
+				<C>m3</C>
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΑΚΡΟΠΟΛΗ">
+				<C>m2</C>
+			</Stop>
+			<Stop stopName="ΣΥΓΓΡΟΥ-ΦΙΞ">
+				<C>m2</C>
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΝΕΟΣ ΚΟΣΜΟΣ">
+				<C>m2</C>
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΑΓΙΟΣ ΙΩΑΝΝΗΣ">
+				<C>m2</C>
+			</Stop>
+			<Stop stopName="ΔΑΦΝΗ">
+				<C>m2</C>
+			</Stop>
+			<Stop stopName="ΑΓΙΟΣ ΔΗΜΗΤΡΙΟΣ">
+				<C>m2</C>
+			</Stop>
+			<Stop stopName="ΗΛΙΟΥΠΟΛΗ">
+				<C>m2</C>
+			</Stop>
+			<Stop stopName="ΑΛΙΜΟΣ">
+				<C>m2</C>
+			</Stop>
+			<Stop stopName="ΑΡΓΥΡΟΥΠΟΛΗ">
+				<C>m2</C>
+			</Stop>
+			<Stop stopName="ΕΛΛΗΝΙΚΟ">
+				<C>m2</C>
+			</Stop>
+		</Stops>
+		<Stops startingPoint="Τέρμα">
+			<Stop stopName="ΕΛΛΗΝΙΚΟ">
+				<C>m2</C>
+			</Stop>
+			<Stop stopName="ΑΡΓΥΡΟΥΠΟΛΗ">
+				<C>m2</C>
+			</Stop>
+			<Stop stopName="ΑΛΙΜΟΣ">
+				<C>m2</C>
+			</Stop>
+			<Stop stopName="ΗΛΙΟΥΠΟΛΗ">
+				<C>m2</C>
+			</Stop>
+			<Stop stopName="ΑΓΙΟΣ ΔΗΜΗΤΡΙΟΣ">
+				<C>m2</C>
+			</Stop>
+			<Stop stopName="ΔΑΦΝΗ">
+				<C>m2</C>
+			</Stop>
+			<Stop stopName="ΑΓΙΟΣ ΙΩΑΝΝΗΣ">
+				<C>m2</C>
+			</Stop>
+			<Stop stopName="ΝΕΟΣ ΚΟΣΜΟΣ">
+				<C>m2</C>
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΣΥΓΓΡΟΥ-ΦΙΞ">
+				<C>m2</C>
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΑΚΡΟΠΟΛΗ">
+				<C>m2</C>
+			</Stop>
+			<Stop stopName="ΣΥΝΤΑΓΜΑ">
+				<C>m2</C>
+				<C>m3</C>
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΠΑΝΕΠΙΣΤΗΜΙΟ">
+				<C>m2</C>
+			</Stop>
+			<Stop stopName="ΟΜΟΝΟΙΑ">
+				<C>m2</C>
+				<C>m1</C>
+			</Stop>
+			<Stop stopName="ΜΕΤΑΞΟΥΡΓΕΙΟ">
+				<C>m2</C>
+			</Stop>
+			<Stop stopName="ΣΤΑΘΜΟΣ ΛΑΡΙΣΗΣ">
+				<C>m2</C>
+			</Stop>
+			<Stop stopName="ΑΤΤΙΚΗ">
+				<C>m2</C>
+				<C>m1</C>
+			</Stop>
+			<Stop stopName="ΣΕΠΟΛΙΑ">
+				<C>m2</C>
+			</Stop>
+			<Stop stopName="ΑΓΙΟΣ ΑΝΤΩΝΙΟΣ">
+				<C>m2</C>
+			</Stop>
+			<Stop stopName="ΠΕΡΙΣΤΕΡΙ">
+				<C>m2</C>
+			</Stop>
+			<Stop stopName="ΑΝΘΟΥΠΟΛΗ">
+				<C>m2</C>
+			</Stop>
+		</Stops>
+    <Day dayName="Δευτέρα εως Πέμπτη" startingPoint="ΑΝΘΟΥΠΟΛΗ">
+      <T>0530</T>
+      <T>0001</T>
+      <Frequency startTime="0530" endTime="0600" freq="10"/>
+      <Frequency startTime="0600" endTime="0700" freq="5"/>
+      <Frequency startTime="0700" endTime="1730" freq="4"/>
+      <Frequency startTime="1730" endTime="2030" freq="5"/>
+      <Frequency startTime="2030" endTime="2200" freq="7"/>
+      <Frequency startTime="2200" endTime="0020" freq="10"/>
+    </Day>
+    <Day dayName="Παρασκευή" startingPoint="ΑΝΘΟΥΠΟΛΗ">
+      <T>0530</T>
+      <T>0201</T>
+      <Frequency startTime="0530" endTime="0600" freq="10"/>
+      <Frequency startTime="0600" endTime="0700" freq="5"/>
+      <Frequency startTime="0700" endTime="1730" freq="4"/>
+      <Frequency startTime="1730" endTime="2030" freq="5"/>
+      <Frequency startTime="2030" endTime="2200" freq="7"/>
+      <Frequency startTime="2200" endTime="0020" freq="10"/>
+      <Frequency startTime="0020" endTime="0220" freq="15"/>
+    </Day>
+    <Day dayName="Σάββατο" startingPoint="ΑΝΘΟΥΠΟΛΗ">
+      <T>0530</T>
+      <T>0201</T>
+      <Frequency startTime="0530" endTime="0900" freq="10"/>
+      <Frequency startTime="0900" endTime="1700" freq="7"/>
+      <Frequency startTime="1700" endTime="0020" freq="10"/>
+      <Frequency startTime="0020" endTime="0220" freq="15"/>
+    </Day>
+    <Day dayName="Κυριακή" startingPoint="ΑΝΘΟΥΠΟΛΗ">
+      <T>0530</T>
+      <T>0001</T>
+      <Frequency startTime="0530" endTime="0900" freq="10"/>
+      <Frequency startTime="0900" endTime="1700" freq="7"/>
+      <Frequency startTime="1700" endTime="0020" freq="10"/>
+    </Day>
+    <Day dayName="Δευτέρα εως Πέμπτη" startingPoint="ΕΛΛΗΝΙΚΟ">
+      <T>0530</T>
+      <T>0005</T>
+      <Frequency startTime="0530" endTime="0600" freq="10"/>
+      <Frequency startTime="0600" endTime="0700" freq="5"/>
+      <Frequency startTime="0700" endTime="1730" freq="4"/>
+      <Frequency startTime="1730" endTime="2030" freq="5"/>
+      <Frequency startTime="2030" endTime="2200" freq="7"/>
+      <Frequency startTime="2200" endTime="0020" freq="10"/>
+    </Day>
+    <Day dayName="Παρασκευή" startingPoint="ΕΛΛΗΝΙΚΟ">
+      <T>0530</T>
+      <T>0205</T>
+      <Frequency startTime="0530" endTime="0600" freq="10"/>
+      <Frequency startTime="0600" endTime="0700" freq="5"/>
+      <Frequency startTime="0700" endTime="1730" freq="4"/>
+      <Frequency startTime="1730" endTime="2030" freq="5"/>
+      <Frequency startTime="2030" endTime="2200" freq="7"/>
+      <Frequency startTime="2200" endTime="0020" freq="10"/>
+      <Frequency startTime="0020" endTime="0220" freq="15"/>
+    </Day>
+    <Day dayName="Σάββατο" startingPoint="ΕΛΛΗΝΙΚΟ">
+      <T>0530</T>
+      <T>0205</T>
+      <Frequency startTime="0530" endTime="0900" freq="10"/>
+      <Frequency startTime="0900" endTime="1700" freq="7"/>
+      <Frequency startTime="1700" endTime="0020" freq="10"/>
+      <Frequency startTime="0020" endTime="0220" freq="15"/>
+    </Day>
+    <Day dayName="Κυριακή" startingPoint="ΕΛΛΗΝΙΚΟ">
+      <T>0530</T>
+      <T>0005</T>
+      <Frequency startTime="0530" endTime="0900" freq="10"/>
+      <Frequency startTime="0900" endTime="1700" freq="7"/>
+      <Frequency startTime="1700" endTime="0020" freq="10"/>
+    </Day>
+  </Bus>
+	<Bus lineNumber="m3" lineName="ΑΓΙΑ ΜΑΡΙΝΑ - ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ">
+		<Stops startingPoint="Αφετηρία">
+			<Stop stopName="ΑΓΙΑ ΜΑΡΙΝΑ">
+				<C>m3</C>
+			</Stop>
+			<Stop stopName="ΑΙΓΑΛΕΩ">
+				<C>m3</C>
+			</Stop>
+			<Stop stopName="ΕΛΑΙΩΝΑΣ">
+				<C>m3</C>
+			</Stop>
+			<Stop stopName="ΚΕΡΑΜΕΙΚΟΣ">
+				<C>m3</C>
+			</Stop>
+			<Stop stopName="ΜΟΝΑΣΤΗΡΑΚΙ">
+				<C>m3</C>
+				<C>m1</C>
+			</Stop>
+			<Stop stopName="ΣΥΝΤΑΓΜΑ">
+				<C>m2</C>
+				<C>m3</C>
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΕΥΑΓΓΕΛΙΣΜΟΣ">
+				<C>m3</C>
+			</Stop>
+			<Stop stopName="ΜΕΓΑΡΟ ΜΟΥΣΙΚΗΣ">
+				<C>m3</C>
+			</Stop>
+			<Stop stopName="ΑΜΠΕΛΟΚΗΠΟΙ">
+				<C>m3</C>
+			</Stop>
+			<Stop stopName="ΠΑΝΟΡΜΟΥ">
+				<C>m3</C>
+			</Stop>
+			<Stop stopName="ΚΑΤΕΧΑΚΗ">
+				<C>m3</C>
+			</Stop>
+			<Stop stopName="ΕΘΝΙΚΗ ΑΜΥΝΑ">
+				<C>m3</C>
+			</Stop>
+			<Stop stopName="ΧΟΛΑΡΓΟΣ">
+				<C>m3</C>
+			</Stop>
+			<Stop stopName="ΝΟΜΙΣΜΑΤΟΚΟΠΕΙΟ">
+				<C>m3</C>
+			</Stop>
+			<Stop stopName="ΑΓΙΑ ΠΑΡΑΣΚΕΥΗ">
+				<C>m3</C>
+			</Stop>
+			<Stop stopName="ΧΑΛΑΝΔΡΙ">
+				<C>m3</C>
+			</Stop>
+			<Stop stopName="ΔΟΥΚΙΣΣΗΣ ΠΛΑΚΕΝΤΙΑΣ">
+				<C>m3</C>
+			</Stop>
+		</Stops>
+		<Stops startingPoint="Τέρμα">
+			<Stop stopName="ΔΟΥΚΙΣΣΗΣ ΠΛΑΚΕΝΤΙΑΣ">
+				<C>m3</C>
+			</Stop>
+			<Stop stopName="ΧΑΛΑΝΔΡΙ">
+				<C>m3</C>
+			</Stop>
+			<Stop stopName="ΑΓΙΑ ΠΑΡΑΣΚΕΥΗ">
+				<C>m3</C>
+			</Stop>
+			<Stop stopName="ΝΟΜΙΣΜΑΤΟΚΟΠΕΙΟ">
+				<C>m3</C>
+			</Stop>
+			<Stop stopName="ΧΟΛΑΡΓΟΣ">
+				<C>m3</C>
+			</Stop>
+			<Stop stopName="ΕΘΝΙΚΗ ΑΜΥΝΑ">
+				<C>m3</C>
+			</Stop>
+			<Stop stopName="ΚΑΤΕΧΑΚΗ">
+				<C>m3</C>
+			</Stop>
+			<Stop stopName="ΠΑΝΟΡΜΟΥ">
+				<C>m3</C>
+			</Stop>
+			<Stop stopName="ΑΜΠΕΛΟΚΗΠΟΙ">
+				<C>m3</C>
+			</Stop>
+			<Stop stopName="ΜΕΓΑΡΟ ΜΟΥΣΙΚΗΣ">
+				<C>m3</C>
+			</Stop>
+			<Stop stopName="ΕΥΑΓΓΕΛΙΣΜΟΣ">
+				<C>m3</C>
+			</Stop>
+			<Stop stopName="ΣΥΝΤΑΓΜΑ">
+				<C>m2</C>
+				<C>m3</C>
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΜΟΝΑΣΤΗΡΑΚΙ">
+				<C>m3</C>
+				<C>m1</C>
+			</Stop>
+			<Stop stopName="ΚΕΡΑΜΕΙΚΟΣ">
+				<C>m3</C>
+			</Stop>
+			<Stop stopName="ΕΛΑΙΩΝΑΣ">
+				<C>m3</C>
+			</Stop>
+			<Stop stopName="ΑΙΓΑΛΕΩ">
+				<C>m3</C>
+			</Stop>
+			<Stop stopName="ΑΓΙΑ ΜΑΡΙΝΑ">
+				<C>m3</C>
+			</Stop>
+		</Stops>
+    <Day dayName="Δευτέρα εως Πέμπτη" startingPoint="ΑΓΙΑ ΜΑΡΙΝΑ">
+      <T>0530</T>
+      <T>0007</T>
+      <Frequency startTime="0530" endTime="0600" freq="10"/>
+      <Frequency startTime="0600" endTime="0700" freq="5"/>
+      <Frequency startTime="0700" endTime="1730" freq="430"/>
+      <Frequency startTime="1730" endTime="2030" freq="5"/>
+      <Frequency startTime="2030" endTime="2200" freq="7"/>
+      <Frequency startTime="2200" endTime="0020" freq="10"/>
+    </Day>
+    <Day dayName="Παρασκευή" startingPoint="ΑΓΙΑ ΜΑΡΙΝΑ">
+      <T>0530</T>
+      <T>0207</T>
+      <Frequency startTime="0530" endTime="0600" freq="10"/>
+      <Frequency startTime="0600" endTime="0700" freq="5"/>
+      <Frequency startTime="0700" endTime="1730" freq="430"/>
+      <Frequency startTime="1730" endTime="2030" freq="5"/>
+      <Frequency startTime="2030" endTime="2200" freq="7"/>
+      <Frequency startTime="2200" endTime="0020" freq="10"/>
+      <Frequency startTime="0020" endTime="0220" freq="15"/>
+    </Day>
+    <Day dayName="Σάββατο" startingPoint="ΑΓΙΑ ΜΑΡΙΝΑ">
+      <T>0530</T>
+      <T>0207</T>
+      <Frequency startTime="0530" endTime="0900" freq="10"/>
+      <Frequency startTime="0900" endTime="1700" freq="7"/>
+      <Frequency startTime="1700" endTime="0020" freq="10"/>
+      <Frequency startTime="0020" endTime="0220" freq="15"/>
+    </Day>
+    <Day dayName="Κυριακή" startingPoint="ΑΓΙΑ ΜΑΡΙΝΑ">
+      <T>0530</T>
+      <T>0007</T>
+      <Frequency startTime="0530" endTime="0900" freq="10"/>
+      <Frequency startTime="0900" endTime="1700" freq="7"/>
+      <Frequency startTime="1700" endTime="0020" freq="10"/>
+    </Day>
+    <Day dayName="Δευτέρα εως Πέμπτη" startingPoint="ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ">
+      <T>0530</T>
+      <T>2359</T>
+      <Frequency startTime="0530" endTime="0600" freq="10"/>
+      <Frequency startTime="0600" endTime="0700" freq="5"/>
+      <Frequency startTime="0700" endTime="1730" freq="430"/>
+      <Frequency startTime="1730" endTime="2030" freq="5"/>
+      <Frequency startTime="2030" endTime="2200" freq="7"/>
+      <Frequency startTime="2200" endTime="0020" freq="10"/>
+    </Day>
+    <Day dayName="Παρασκευή" startingPoint="ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ">
+      <T>0530</T>
+      <T>0159</T>
+      <Frequency startTime="0530" endTime="0600" freq="10"/>
+      <Frequency startTime="0600" endTime="0700" freq="5"/>
+      <Frequency startTime="0700" endTime="1730" freq="430"/>
+      <Frequency startTime="1730" endTime="2030" freq="5"/>
+      <Frequency startTime="2030" endTime="2200" freq="7"/>
+      <Frequency startTime="2200" endTime="0020" freq="10"/>
+      <Frequency startTime="0020" endTime="0220" freq="15"/>
+    </Day>
+    <Day dayName="Σάββατο" startingPoint="ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ">
+      <T>0530</T>
+      <T>0159</T>
+      <Frequency startTime="0530" endTime="0900" freq="10"/>
+      <Frequency startTime="0900" endTime="1700" freq="7"/>
+      <Frequency startTime="1700" endTime="0020" freq="10"/>
+      <Frequency startTime="0020" endTime="0220" freq="15"/>
+    </Day>
+    <Day dayName="Κυριακή" startingPoint="ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ">
+      <T>0530</T>
+      <T>2359</T>
+      <Frequency startTime="0530" endTime="0900" freq="10"/>
+      <Frequency startTime="0900" endTime="1700" freq="7"/>
+      <Frequency startTime="1700" endTime="0020" freq="10"/>
+    </Day>
+  </Bus>
+	<Bus lineNumber="m3 " lineName="ΑΓΙΑ ΜΑΡΙΝΑ - ΑΕΡΟΔΡΟΜΙΟ">
+		<Stops startingPoint="Αφετηρία">
+			<Stop stopName="ΑΓΙΑ ΜΑΡΙΝΑ">
+				<C>m3</C>
+			</Stop>
+			<Stop stopName="ΑΙΓΑΛΕΩ">
+				<C>m3</C>
+			</Stop>
+			<Stop stopName="ΕΛΑΙΩΝΑΣ">
+				<C>m3</C>
+			</Stop>
+			<Stop stopName="ΚΕΡΑΜΕΙΚΟΣ">
+				<C>m3</C>
+			</Stop>
+			<Stop stopName="ΜΟΝΑΣΤΗΡΑΚΙ">
+				<C>m3</C>
+				<C>m1</C>
+			</Stop>
+			<Stop stopName="ΣΥΝΤΑΓΜΑ">
+				<C>m2</C>
+				<C>m3</C>
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΕΥΑΓΓΕΛΙΣΜΟΣ">
+				<C>m3</C>
+			</Stop>
+			<Stop stopName="ΜΕΓΑΡΟ ΜΟΥΣΙΚΗΣ">
+				<C>m3</C>
+			</Stop>
+			<Stop stopName="ΑΜΠΕΛΟΚΗΠΟΙ">
+				<C>m3</C>
+			</Stop>
+			<Stop stopName="ΠΑΝΟΡΜΟΥ">
+				<C>m3</C>
+			</Stop>
+			<Stop stopName="ΚΑΤΕΧΑΚΗ">
+				<C>m3</C>
+			</Stop>
+			<Stop stopName="ΕΘΝΙΚΗ ΑΜΥΝΑ">
+				<C>m3</C>
+			</Stop>
+			<Stop stopName="ΧΟΛΑΡΓΟΣ">
+				<C>m3</C>
+			</Stop>
+			<Stop stopName="ΝΟΜΙΣΜΑΤΟΚΟΠΕΙΟ">
+				<C>m3</C>
+			</Stop>
+			<Stop stopName="ΑΓΙΑ ΠΑΡΑΣΚΕΥΗ">
+				<C>m3</C>
+			</Stop>
+			<Stop stopName="ΧΑΛΑΝΔΡΙ">
+				<C>m3</C>
+			</Stop>
+			<Stop stopName="ΔΟΥΚΙΣΣΗΣ ΠΛΑΚΕΝΤΙΑΣ">
+				<C>m3</C>
+			</Stop>
+			<Stop stopName="ΠΑΛΛΗΝΗ">
+				<C>m3</C>
+			</Stop>
+			<Stop stopName="ΠΑΙΑΝΙΑ-ΚΑΝΤΖΑ">
+				<C>m3</C>
+			</Stop>
+			<Stop stopName="ΚΟΡΩΠΙ">
+				<C>m3</C>
+			</Stop>
+			<Stop stopName="ΑΕΡΟΔΡΟΜΙΟ">
+				<C>m3</C>
+			</Stop>
+		</Stops>
+		<Stops startingPoint="Τέρμα">
+			<Stop stopName="ΑΕΡΟΔΡΟΜΙΟ">
+				<C>m3</C>
+			</Stop>
+			<Stop stopName="ΚΟΡΩΠΙ">
+				<C>m3</C>
+			</Stop>
+			<Stop stopName="ΠΑΙΑΝΙΑ-ΚΑΝΤΖΑ">
+				<C>m3</C>
+			</Stop>
+			<Stop stopName="ΠΑΛΛΗΝΗ">
+				<C>m3</C>
+			</Stop>
+			<Stop stopName="ΔΟΥΚΙΣΣΗΣ ΠΛΑΚΕΝΤΙΑΣ">
+				<C>m3</C>
+			</Stop>
+			<Stop stopName="ΧΑΛΑΝΔΡΙ">
+				<C>m3</C>
+			</Stop>
+			<Stop stopName="ΑΓΙΑ ΠΑΡΑΣΚΕΥΗ">
+				<C>m3</C>
+			</Stop>
+			<Stop stopName="ΝΟΜΙΣΜΑΤΟΚΟΠΕΙΟ">
+				<C>m3</C>
+			</Stop>
+			<Stop stopName="ΧΟΛΑΡΓΟΣ">
+				<C>m3</C>
+			</Stop>
+			<Stop stopName="ΕΘΝΙΚΗ ΑΜΥΝΑ">
+				<C>m3</C>
+			</Stop>
+			<Stop stopName="ΚΑΤΕΧΑΚΗ">
+				<C>m3</C>
+			</Stop>
+			<Stop stopName="ΠΑΝΟΡΜΟΥ">
+				<C>m3</C>
+			</Stop>
+			<Stop stopName="ΑΜΠΕΛΟΚΗΠΟΙ">
+				<C>m3</C>
+			</Stop>
+			<Stop stopName="ΜΕΓΑΡΟ ΜΟΥΣΙΚΗΣ">
+				<C>m3</C>
+			</Stop>
+			<Stop stopName="ΕΥΑΓΓΕΛΙΣΜΟΣ">
+				<C>m3</C>
+			</Stop>
+			<Stop stopName="ΣΥΝΤΑΓΜΑ">
+				<C>m2</C>
+				<C>m3</C>
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΜΟΝΑΣΤΗΡΑΚΙ">
+				<C>m3</C>
+				<C>m1</C>
+			</Stop>
+			<Stop stopName="ΚΕΡΑΜΕΙΚΟΣ">
+				<C>m3</C>
+			</Stop>
+			<Stop stopName="ΕΛΑΙΩΝΑΣ">
+				<C>m3</C>
+			</Stop>
+			<Stop stopName="ΑΙΓΑΛΕΩ">
+				<C>m3</C>
+			</Stop>
+			<Stop stopName="ΑΓΙΑ ΜΑΡΙΝΑ">
+				<C>m3</C>
+			</Stop>
+		</Stops>
+    <Day dayName="Καθημερινά" startingPoint="ΑΓΙΑ ΜΑΡΙΝΑ">
+      <T>0530</T>
+      <T>2256</T>
+      <Frequency startTime="0556" endTime="2256" freq="30"/>
+    </Day>
+    <Day dayName="Καθημερινά" startingPoint="ΑΕΡΟΔΡΟΜΙΟ">
+      <T>0630</T>
+      <T>2330</T>
+      <Frequency startTime="0630" endTime="2330" freq="30"/>
+    </Day>
+  </Bus>
+	
+	<Bus lineNumber="t3" lineName="ΝΕΟ ΦΑΛΗΡΟ - ΒΟΥΛΑ">
+		<Stops startingPoint="Αφετηρία">
+			<Stop stopName="ΣΕΦ">
+				<C>t3</C>
+				<C>t4</C>
+			</Stop>
+			<Stop stopName="ΝΕΟ ΦΑΛΗΡΟ">
+				<C>m1</C>
+				<C>t3</C>
+				<C>t4</C>
+			</Stop>
+			<Stop stopName="ΜΟΣΧΑΤΟ">
+				<C>t3</C>
+				<C>t4</C>
+			</Stop>
+			<Stop stopName="ΚΑΛΛΙΘΕΑ">
+				<C>t3</C>
+				<C>t4</C>
+			</Stop>
+			<Stop stopName="ΤΖΙΤΖΙΦΙΕΣ">
+				<C>t3</C>
+				<C>t4</C>
+			</Stop>
+			<Stop stopName="ΔΕΛΤΑ ΦΑΛΗΡΟΥ">
+				<C>t3</C>
+				<C>t4</C>
+			</Stop>
+			<Stop stopName="ΑΓΙΑ ΣΚΕΠΗ">
+				<C>t3</C>
+				<C>t4</C>
+			</Stop>
+			<Stop stopName="ΤΡΟΚΑΝΤΕΡΟ">
+				<C>t3</C>
+				<C>t4</C>
+			</Stop>
+			<Stop stopName="ΠΑΡΚΟ ΦΛΟΙΣΒΟΥ">
+				<C>t3</C>
+				<C>t4</C>
+			</Stop>
+			<Stop stopName="ΦΛΟΙΣΒΟΣ">
+				<C>t3</C>
+				<C>t4</C>
+			</Stop>
+			<Stop stopName="ΜΠΑΤΗΣ">
+				<C>t3</C>
+				<C>t4</C>
+			</Stop>
+			<Stop stopName="ΕΔΕΜ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΠΙΚΡΟΔΑΦΝΗ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΜΑΡΙΝΑ ΑΛΙΜΟΥ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΚΑΛΑΜΑΚΙ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΖΕΦΥΡΟΣ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΛΟΥΤΡΑ ΑΛΙΜΟΥ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΕΛΛΗΝΙΚΟ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="1η ΑΓ. ΚΟΣΜΑ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="2η ΑΓ. ΚΟΣΜΑ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΑΓΙΟΣ ΑΛΕΞΑΝΔΡΟΣ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΕΛΛΗΝΩΝ ΟΛΥΜΠΙΟΝΙΚΩΝ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΚΕΝΤΡΟ ΙΣΤΙΟΠΛΟΙΑΣ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΠΛΑΤΕΙΑ ΒΕΡΓΩΤΗ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΠΑΡΑΛΙΑ ΓΛΥΦΑΔΑΣ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΠΑΛΑΙΟ ΔΗΜΑΡΧΕΙΟ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΠΛΑΤΕΙΑ ΚΑΤΡΑΚΗ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΑΓΓΕΛΟΥ ΜΕΤΑΞΑ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΠΛΑΤΕΙΑ ΕΣΠΕΡΙΔΩΝ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΚΟΛΥΜΒΗΤΗΡΙΟ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΑΣΚΛΗΠΙΕΙΟ ΒΟΥΛΑΣ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+		</Stops>
+		<Stops startingPoint="Τέρμα">
+			<Stop stopName="ΑΣΚΛΗΠΙΕΙΟ ΒΟΥΛΑΣ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΚΟΛΥΜΒΗΤΗΡΙΟ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΠΛΑΤΕΙΑ ΕΣΠΕΡΙΔΩΝ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΑΓΓΕΛΟΥ ΜΕΤΑΞΑ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΠΛΑΤΕΙΑ ΚΑΤΡΑΚΗ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΠΑΛΑΙΟ ΔΗΜΑΡΧΕΙΟ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΠΑΡΑΛΙΑ ΓΛΥΦΑΔΑΣ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΠΛΑΤΕΙΑ ΒΕΡΓΩΤΗ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΚΕΝΤΡΟ ΙΣΤΙΟΠΛΟΙΑΣ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΕΛΛΗΝΩΝ ΟΛΥΜΠΙΟΝΙΚΩΝ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΑΓΙΟΣ ΑΛΕΞΑΝΔΡΟΣ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="2η ΑΓ. ΚΟΣΜΑ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="1η ΑΓ. ΚΟΣΜΑ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΕΛΛΗΝΙΚΟ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΛΟΥΤΡΑ ΑΛΙΜΟΥ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΖΕΦΥΡΟΣ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΚΑΛΑΜΑΚΙ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΜΑΡΙΝΑ ΑΛΙΜΟΥ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΠΙΚΡΟΔΑΦΝΗ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΕΔΕΜ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΜΠΑΤΗΣ">
+				<C>t3</C>
+				<C>t4</C>
+			</Stop>
+			<Stop stopName="ΦΛΟΙΣΒΟΣ">
+				<C>t3</C>
+				<C>t4</C>
+			</Stop>
+			<Stop stopName="ΠΑΡΚΟ ΦΛΟΙΣΒΟΥ">
+				<C>t3</C>
+				<C>t4</C>
+			</Stop>
+			<Stop stopName="ΤΡΟΚΑΝΤΕΡΟ">
+				<C>t3</C>
+				<C>t4</C>
+			</Stop>
+			<Stop stopName="ΑΓΙΑ ΣΚΕΠΗ">
+				<C>t3</C>
+				<C>t4</C>
+			</Stop>
+			<Stop stopName="ΔΕΛΤΑ ΦΑΛΗΡΟΥ">
+				<C>t3</C>
+				<C>t4</C>
+			</Stop>
+			<Stop stopName="ΤΖΙΤΖΙΦΙΕΣ">
+				<C>t3</C>
+				<C>t4</C>
+			</Stop>
+			<Stop stopName="ΚΑΛΛΙΘΕΑ">
+				<C>t3</C>
+				<C>t4</C>
+			</Stop>
+			<Stop stopName="ΜΟΣΧΑΤΟ">
+				<C>t3</C>
+				<C>t4</C>
+			</Stop>
+			<Stop stopName="ΝΕΟ ΦΑΛΗΡΟ">
+				<C>m1</C>
+				<C>t3</C>
+				<C>t4</C>
+			</Stop>
+			<Stop stopName="ΣΕΦ">
+				<C>t3</C>
+				<C>t4</C>
+			</Stop>
+		</Stops>
+    <Day dayName="Δευτέρα εως Πέμπτη" startingPoint="ΝΕΟ ΦΑΛΗΡΟ">
+      <T>0530</T>
+      <T>0011</T>
+      <Frequency startTime="0530" endTime="0630" freq="25"/>
+      <Frequency startTime="0630" endTime="1900" freq="20"/>
+      <Frequency startTime="1900" endTime="0030" freq="20"/>
+    </Day>
+    <Day dayName="Παρασκευή" startingPoint="ΝΕΟ ΦΑΛΗΡΟ">
+      <T>0530</T>
+      <T>0155</T>
+      <Frequency startTime="0530" endTime="0630" freq="25"/>
+      <Frequency startTime="0630" endTime="1900" freq="20"/>
+      <Frequency startTime="1900" endTime="0030" freq="20"/>
+      <Frequency startTime="0030" endTime="0230" freq="30"/>
+    </Day>
+    <Day dayName="Σάββατο" startingPoint="ΝΕΟ ΦΑΛΗΡΟ">
+      <T>0526</T>
+      <T>0155</T>
+      <Frequency startTime="0530" endTime="1000" freq="25"/>
+      <Frequency startTime="1000" endTime="2130" freq="20"/>
+      <Frequency startTime="2130" endTime="0030" freq="25"/>
+      <Frequency startTime="0030" endTime="0230" freq="30"/>
+    </Day>
+    <Day dayName="Κυριακή" startingPoint="ΝΕΟ ΦΑΛΗΡΟ">
+      <T>0526</T>
+      <T>0011</T>
+      <Frequency startTime="0530" endTime="1000" freq="25"/>
+      <Frequency startTime="1000" endTime="2130" freq="20"/>
+      <Frequency startTime="2130" endTime="0030" freq="25"/>
+    </Day>
+    <Day dayName="Δευτέρα εως Πέμπτη" startingPoint="ΒΟΥΛΑ">
+      <T>0524</T>
+      <T>0004</T>
+      <Frequency startTime="0530" endTime="0630" freq="25"/>
+      <Frequency startTime="0630" endTime="1900" freq="20"/>
+      <Frequency startTime="1900" endTime="0030" freq="20"/>
+    </Day>
+    <Day dayName="Παρασκευή" startingPoint="ΒΟΥΛΑ">
+      <T>0524</T>
+      <T>0202</T>
+      <Frequency startTime="0530" endTime="0630" freq="25"/>
+      <Frequency startTime="0630" endTime="1900" freq="20"/>
+      <Frequency startTime="1900" endTime="0030" freq="20"/>
+      <Frequency startTime="0030" endTime="0230" freq="30"/>
+    </Day>
+    <Day dayName="Σάββατο" startingPoint="ΒΟΥΛΑ">
+      <T>0525</T>
+      <T>0202</T>
+      <Frequency startTime="0530" endTime="1000" freq="25"/>
+      <Frequency startTime="1000" endTime="2130" freq="20"/>
+      <Frequency startTime="2130" endTime="0030" freq="25"/>
+      <Frequency startTime="0030" endTime="0230" freq="30"/>
+    </Day>
+    <Day dayName="Κυριακή" startingPoint="ΒΟΥΛΑ">
+      <T>0525</T>
+      <T>0010</T>
+      <Frequency startTime="0530" endTime="1000" freq="25"/>
+      <Frequency startTime="1000" endTime="2130" freq="20"/>
+      <Frequency startTime="2130" endTime="0030" freq="25"/>
+    </Day>
+  </Bus>
+	<Bus lineNumber="t4" lineName="ΣΥΝΤΑΓΜΑ - ΝΕΟ ΦΑΛΗΡΟ">
+		<Stops startingPoint="Αφετηρία">
+			<Stop stopName="ΣΥΝΤΑΓΜΑ">
+				<C>m2</C>
+				<C>m3</C>
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΖΑΠΠΕΙΟ">
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΛΕΩΦ. ΒΟΥΛΙΑΓΜΕΝΗΣ">
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΦΙΞ">
+				<C>m2</C>
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΚΑΣΟΜΟΥΛΗ">
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΝΕΟΣ ΚΟΣΜΟΣ">
+				<C>m2</C>
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΜΠΑΚΝΑΝΑ">
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΑΙΓΑΙΟΥ">
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΑΓΙΑΣ ΦΩΤΕΙΝΗΣ">
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΜΕΓ. ΑΛΕΞΑΝΔΡΟΥ">
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΑΓΙΑ ΠΑΡΑΣΚΕΥΗ">
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΜΗΔΕΙΑΣ-ΜΥΚΑΛΗΣ">
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΕΥΑΓΓΕΛΙΚΗ ΣΧΟΛΗ">
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΑΧΙΛΛΕΩΣ">
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΑΜΦΙΘΕΑΣ">
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΠΑΝΑΓΙΤΣΑ">
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΜΟΥΣΩΝ">
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΜΠΑΤΗΣ">
+				<C>t3</C>
+				<C>t4</C>
+			</Stop>
+			<Stop stopName="ΦΛΟΙΣΒΟΣ">
+				<C>t3</C>
+				<C>t4</C>
+			</Stop>
+			<Stop stopName="ΠΑΡΚΟ ΦΛΟΙΣΒΟΥ">
+				<C>t3</C>
+				<C>t4</C>
+			</Stop>
+			<Stop stopName="ΤΡΟΚΑΝΤΕΡΟ">
+				<C>t3</C>
+				<C>t4</C>
+			</Stop>
+			<Stop stopName="ΑΓΙΑ ΣΚΕΠΗ">
+				<C>t3</C>
+				<C>t4</C>
+			</Stop>
+			<Stop stopName="ΔΕΛΤΑ ΦΑΛΗΡΟΥ">
+				<C>t3</C>
+				<C>t4</C>
+			</Stop>
+			<Stop stopName="ΤΖΙΤΖΙΦΙΕΣ">
+				<C>t3</C>
+				<C>t4</C>
+			</Stop>
+			<Stop stopName="ΚΑΛΛΙΘΕΑ">
+				<C>t3</C>
+				<C>t4</C>
+			</Stop>
+			<Stop stopName="ΜΟΣΧΑΤΟ">
+				<C>t3</C>
+				<C>t4</C>
+			</Stop>
+			<Stop stopName="ΝΕΟ ΦΑΛΗΡΟ">
+				<C>m1</C>
+				<C>t3</C>
+				<C>t4</C>
+			</Stop>
+			<Stop stopName="ΣΕΦ">
+				<C>t3</C>
+				<C>t4</C>
+			</Stop>
+		</Stops>
+		<Stops startingPoint="Τέρμα">
+			<Stop stopName="ΣΕΦ">
+				<C>t3</C>
+				<C>t4</C>
+			</Stop>
+			<Stop stopName="ΝΕΟ ΦΑΛΗΡΟ">
+				<C>m1</C>
+				<C>t3</C>
+				<C>t4</C>
+			</Stop>
+			<Stop stopName="ΜΟΣΧΑΤΟ">
+				<C>t3</C>
+				<C>t4</C>
+			</Stop>
+			<Stop stopName="ΚΑΛΛΙΘΕΑ">
+				<C>t3</C>
+				<C>t4</C>
+			</Stop>
+			<Stop stopName="ΤΖΙΤΖΙΦΙΕΣ">
+				<C>t3</C>
+				<C>t4</C>
+			</Stop>
+			<Stop stopName="ΔΕΛΤΑ ΦΑΛΗΡΟΥ">
+				<C>t3</C>
+				<C>t4</C>
+			</Stop>
+			<Stop stopName="ΑΓΙΑ ΣΚΕΠΗ">
+				<C>t3</C>
+				<C>t4</C>
+			</Stop>
+			<Stop stopName="ΤΡΟΚΑΝΤΕΡΟ">
+				<C>t3</C>
+				<C>t4</C>
+			</Stop>
+			<Stop stopName="ΠΑΡΚΟ ΦΛΟΙΣΒΟΥ">
+				<C>t3</C>
+				<C>t4</C>
+			</Stop>
+			<Stop stopName="ΦΛΟΙΣΒΟΣ">
+				<C>t3</C>
+				<C>t4</C>
+			</Stop>
+			<Stop stopName="ΜΠΑΤΗΣ">
+				<C>t3</C>
+				<C>t4</C>
+			</Stop>
+			<Stop stopName="ΜΟΥΣΩΝ">
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΠΑΝΑΓΙΤΣΑ">
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΑΜΦΙΘΕΑΣ">
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΑΧΙΛΛΕΩΣ">
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΕΥΑΓΓΕΛΙΚΗ ΣΧΟΛΗ">
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΜΗΔΕΙΑΣ-ΜΥΚΑΛΗΣ">
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΑΓΙΑ ΠΑΡΑΣΚΕΥΗ">
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΜΕΓ. ΑΛΕΞΑΝΔΡΟΥ">
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΑΓΙΑΣ ΦΩΤΕΙΝΗΣ">
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΑΙΓΑΙΟΥ">
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΜΠΑΚΝΑΝΑ">
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΝΕΟΣ ΚΟΣΜΟΣ">
+				<C>m2</C>
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΚΑΣΟΜΟΥΛΗ">
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΦΙΞ">
+				<C>m2</C>
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΛΕΩΦ. ΒΟΥΛΙΑΓΜΕΝΗΣ">
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΖΑΠΠΕΙΟ">
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΣΥΝΤΑΓΜΑ">
+				<C>m2</C>
+				<C>m3</C>
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+		</Stops>
+    <Day dayName="Δευτέρα εως Πέμπτη" startingPoint="ΣΥΝΤΑΓΜΑ">
+      <T>0537</T>
+      <T>0015</T>
+      <Frequency startTime="0530" endTime="0630" freq="25"/>
+      <Frequency startTime="0630" endTime="1900" freq="15"/>
+      <Frequency startTime="1900" endTime="0030" freq="20"/>
+    </Day>
+    <Day dayName="Παρασκευή" startingPoint="ΣΥΝΤΑΓΜΑ">
+      <T>0537</T>
+      <T>0215</T>
+      <Frequency startTime="0530" endTime="0630" freq="25"/>
+      <Frequency startTime="0630" endTime="1900" freq="15"/>
+      <Frequency startTime="1900" endTime="0030" freq="20"/>
+      <Frequency startTime="0030" endTime="0230" freq="40"/>
+    </Day>
+    <Day dayName="Σάββατο" startingPoint="ΣΥΝΤΑΓΜΑ">
+      <T>0537</T>
+      <T>0215</T>
+      <Frequency startTime="0530" endTime="1000" freq="25"/>
+      <Frequency startTime="1000" endTime="2130" freq="20"/>
+      <Frequency startTime="2130" endTime="0030" freq="25"/>
+      <Frequency startTime="0030" endTime="0230" freq="40"/>
+    </Day>
+    <Day dayName="Κυριακή" startingPoint="ΣΥΝΤΑΓΜΑ">
+      <T>0537</T>
+      <T>0022</T>
+      <Frequency startTime="0530" endTime="1000" freq="25"/>
+      <Frequency startTime="1000" endTime="2130" freq="20"/>
+      <Frequency startTime="2130" endTime="0030" freq="25"/>
+    </Day>
+    <Day dayName="Δευτέρα εως Πέμπτη" startingPoint="ΝΕΟ ΦΑΛΗΡΟ">
+      <T>0511</T>
+      <T>2359</T>
+      <Frequency startTime="0530" endTime="0630" freq="25"/>
+      <Frequency startTime="0630" endTime="1900" freq="15"/>
+      <Frequency startTime="1900" endTime="0030" freq="20"/>
+    </Day>
+    <Day dayName="Παρασκευή" startingPoint="ΝΕΟ ΦΑΛΗΡΟ">
+      <T>0511</T>
+      <T>0122</T>
+      <Frequency startTime="0530" endTime="0630" freq="25"/>
+      <Frequency startTime="0630" endTime="1900" freq="15"/>
+      <Frequency startTime="1900" endTime="0030" freq="20"/>
+      <Frequency startTime="0030" endTime="0230" freq="40"/>
+    </Day>
+    <Day dayName="Σάββατο" startingPoint="ΝΕΟ ΦΑΛΗΡΟ">
+      <T>0511</T>
+      <T>0122</T>
+      <Frequency startTime="0530" endTime="1000" freq="25"/>
+      <Frequency startTime="1000" endTime="2130" freq="20"/>
+      <Frequency startTime="2130" endTime="0030" freq="25"/>
+      <Frequency startTime="0030" endTime="0230" freq="40"/>
+    </Day>
+    <Day dayName="Κυριακή" startingPoint="ΝΕΟ ΦΑΛΗΡΟ">
+      <T>0511</T>
+      <T>2356</T>
+      <Frequency startTime="0530" endTime="1000" freq="25"/>
+      <Frequency startTime="1000" endTime="2130" freq="20"/>
+      <Frequency startTime="2130" endTime="0030" freq="25"/>
+    </Day>
+  </Bus>
+	<Bus lineNumber="t5" lineName="ΣΥΝΤΑΓΜΑ - ΒΟΥΛΑ">
+		<Stops startingPoint="Αφετηρία">
+			<Stop stopName="ΣΥΝΤΑΓΜΑ">
+				<C>m2</C>
+				<C>m3</C>
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΖΑΠΠΕΙΟ">
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΛΕΩΦ. ΒΟΥΛΙΑΓΜΕΝΗΣ">
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΦΙΞ">
+				<C>m2</C>
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΚΑΣΟΜΟΥΛΗ">
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΝΕΟΣ ΚΟΣΜΟΣ">
+				<C>m2</C>
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΜΠΑΚΝΑΝΑ">
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΑΙΓΑΙΟΥ">
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΑΓΙΑΣ ΦΩΤΕΙΝΗΣ">
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΜΕΓ. ΑΛΕΞΑΝΔΡΟΥ">
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΑΓΙΑ ΠΑΡΑΣΚΕΥΗ">
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΜΗΔΕΙΑΣ-ΜΥΚΑΛΗΣ">
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΕΥΑΓΓΕΛΙΚΗ ΣΧΟΛΗ">
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΑΧΙΛΛΕΩΣ">
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΑΜΦΙΘΕΑΣ">
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΠΑΝΑΓΙΤΣΑ">
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΜΟΥΣΩΝ">
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΕΔΕΜ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΠΙΚΡΟΔΑΦΝΗ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΜΑΡΙΝΑ ΑΛΙΜΟΥ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΚΑΛΑΜΑΚΙ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΖΕΦΥΡΟΣ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΛΟΥΤΡΑ ΑΛΙΜΟΥ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΕΛΛΗΝΙΚΟ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="1η ΑΓ. ΚΟΣΜΑ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="2η ΑΓ. ΚΟΣΜΑ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΑΓΙΟΣ ΑΛΕΞΑΝΔΡΟΣ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΕΛΛΗΝΩΝ ΟΛΥΜΠΙΟΝΙΚΩΝ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΚΕΝΤΡΟ ΙΣΤΙΟΠΛΟΙΑΣ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΠΛΑΤΕΙΑ ΒΕΡΓΩΤΗ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΠΑΡΑΛΙΑ ΓΛΥΦΑΔΑΣ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΠΑΛΑΙΟ ΔΗΜΑΡΧΕΙΟ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΠΛΑΤΕΙΑ ΚΑΤΡΑΚΗ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΑΓΓΕΛΟΥ ΜΕΤΑΞΑ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΠΛΑΤΕΙΑ ΕΣΠΕΡΙΔΩΝ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΚΟΛΥΜΒΗΤΗΡΙΟ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΑΣΚΛΗΠΙΕΙΟ ΒΟΥΛΑΣ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+		</Stops>
+		<Stops startingPoint="Τέρμα">
+			<Stop stopName="ΑΣΚΛΗΠΙΕΙΟ ΒΟΥΛΑΣ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΚΟΛΥΜΒΗΤΗΡΙΟ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΠΛΑΤΕΙΑ ΕΣΠΕΡΙΔΩΝ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΑΓΓΕΛΟΥ ΜΕΤΑΞΑ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΠΛΑΤΕΙΑ ΚΑΤΡΑΚΗ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΠΑΛΑΙΟ ΔΗΜΑΡΧΕΙΟ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΠΑΡΑΛΙΑ ΓΛΥΦΑΔΑΣ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΠΛΑΤΕΙΑ ΒΕΡΓΩΤΗ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΚΕΝΤΡΟ ΙΣΤΙΟΠΛΟΙΑΣ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΕΛΛΗΝΩΝ ΟΛΥΜΠΙΟΝΙΚΩΝ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΑΓΙΟΣ ΑΛΕΞΑΝΔΡΟΣ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="2η ΑΓ. ΚΟΣΜΑ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="1η ΑΓ. ΚΟΣΜΑ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΕΛΛΗΝΙΚΟ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΛΟΥΤΡΑ ΑΛΙΜΟΥ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΖΕΦΥΡΟΣ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΚΑΛΑΜΑΚΙ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΜΑΡΙΝΑ ΑΛΙΜΟΥ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΠΙΚΡΟΔΑΦΝΗ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΕΔΕΜ">
+				<C>t3</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΜΟΥΣΩΝ">
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΠΑΝΑΓΙΤΣΑ">
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΑΜΦΙΘΕΑΣ">
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΑΧΙΛΛΕΩΣ">
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΕΥΑΓΓΕΛΙΚΗ ΣΧΟΛΗ">
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΜΗΔΕΙΑΣ-ΜΥΚΑΛΗΣ">
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΑΓΙΑ ΠΑΡΑΣΚΕΥΗ">
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΜΕΓ. ΑΛΕΞΑΝΔΡΟΥ">
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΑΓΙΑΣ ΦΩΤΕΙΝΗΣ">
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΑΙΓΑΙΟΥ">
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΜΠΑΚΝΑΝΑ">
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΝΕΟΣ ΚΟΣΜΟΣ">
+				<C>m2</C>
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΚΑΣΟΜΟΥΛΗ">
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΦΙΞ">
+				<C>m2</C>
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΛΕΩΦ. ΒΟΥΛΙΑΓΜΕΝΗΣ">
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΖΑΠΠΕΙΟ">
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+			<Stop stopName="ΣΥΝΤΑΓΜΑ">
+				<C>m2</C>
+				<C>m3</C>
+				<C>t4</C>
+				<C>t5</C>
+			</Stop>
+		</Stops>
+    <Day dayName="Δευτέρα εως Πέμπτη" startingPoint="ΣΥΝΤΑΓΜΑ">
+      <T>0525</T>
+      <T>0028</T>
+      <Frequency startTime="0530" endTime="0630" freq="25"/>
+      <Frequency startTime="0630" endTime="1900" freq="15"/>
+      <Frequency startTime="1900" endTime="0030" freq="20"/>
+    </Day>
+    <Day dayName="Παρασκευή" startingPoint="ΣΥΝΤΑΓΜΑ">
+      <T>0525</T>
+      <T>0230</T>
+      <Frequency startTime="0530" endTime="0630" freq="25"/>
+      <Frequency startTime="0630" endTime="1900" freq="15"/>
+      <Frequency startTime="1900" endTime="0030" freq="20"/>
+      <Frequency startTime="0030" endTime="0230" freq="40"/>
+    </Day>
+    <Day dayName="Σάββατο" startingPoint="ΣΥΝΤΑΓΜΑ">
+      <T>0525</T>
+      <T>0230</T>
+      <Frequency startTime="0530" endTime="1000" freq="25"/>
+      <Frequency startTime="1000" endTime="2130" freq="20"/>
+      <Frequency startTime="2130" endTime="030" freq="25"/>
+      <Frequency startTime="0030" endTime="0230" freq="40"/>
+    </Day>
+    <Day dayName="Κυριακή" startingPoint="ΣΥΝΤΑΓΜΑ">
+      <T>0525</T>
+      <T>0035</T>
+      <Frequency startTime="0530" endTime="1000" freq="25"/>
+      <Frequency startTime="1000" endTime="2130" freq="20"/>
+      <Frequency startTime="2130" endTime="030" freq="25"/>
+    </Day>
+    <Day dayName="Δευτέρα εως Πέμπτη" startingPoint="ΒΟΥΛΑ">
+      <T>0510</T>
+      <T>2355</T>
+      <Frequency startTime="0530" endTime="0630" freq="25"/>
+      <Frequency startTime="0630" endTime="1900" freq="15"/>
+      <Frequency startTime="1900" endTime="0030" freq="20"/>
+    </Day>
+    <Day dayName="Παρασκευή" startingPoint="ΒΟΥΛΑ">
+      <T>0510</T>
+      <T>0119</T>
+      <Frequency startTime="0530" endTime="0630" freq="25"/>
+      <Frequency startTime="0630" endTime="1900" freq="15"/>
+      <Frequency startTime="1900" endTime="0030" freq="20"/>
+      <Frequency startTime="0030" endTime="0230" freq="40"/>
+    </Day>
+    <Day dayName="Σάββατο" startingPoint="ΒΟΥΛΑ">
+      <T>0510</T>
+      <T>0119</T>
+      <Frequency startTime="0530" endTime="1000" freq="25"/>
+      <Frequency startTime="1000" endTime="2130" freq="20"/>
+      <Frequency startTime="2130" endTime="030" freq="25"/>
+      <Frequency startTime="0030" endTime="0230" freq="40"/>
+    </Day>
+    <Day dayName="Κυριακή" startingPoint="ΒΟΥΛΑ">
+      <T>0510</T>
+      <T>2355</T>
+      <Frequency startTime="0530" endTime="1000" freq="25"/>
+      <Frequency startTime="1000" endTime="2130" freq="20"/>
+      <Frequency startTime="2130" endTime="030" freq="25"/>
+    </Day>
+  </Bus>
+</Buses>
